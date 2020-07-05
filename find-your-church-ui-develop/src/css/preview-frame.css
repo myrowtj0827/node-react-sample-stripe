@@ -1,0 +1,63 @@
+.preview-frame-wrapper {
+	background-color: #eee;
+}
+
+.preview-frame-header {
+	position: fixed;
+	width: 100%;
+	height: 152px;
+	left: 0;
+	top: 0;
+	background: url("../img/preview-header.png") no-repeat center center;
+	background-size: cover;
+	text-align: center;
+	z-index: 1000;
+}
+
+.button-6 {
+	background-color: grey;
+	font-family: 'Material design iconic font', sans-serif;
+	font-style: normal;
+}
+
+.div-block-185 {
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	text-align: left;
+}
+
+.w-button-back {
+	display: inline-block;
+	padding: 9px 15px;
+	color: white;
+	border: 0;
+	line-height: 16px;
+	text-decoration: none;
+	cursor: pointer;
+	border-radius: 0;
+}
+
+.italic-text-5 {
+	font-style: normal;
+}
+
+.heading-28 {
+	color: #fff;
+	font-size: 32px;
+	line-height: 128px;
+	font-weight: 700;
+}
+
+.preview-frame {
+	box-sizing: border-box;
+	width: 100%;
+	height: calc(100vh - 158px);
+	margin-top: 152px;
+	outline: none;
+	border: none;
+	overflow: auto;
+}

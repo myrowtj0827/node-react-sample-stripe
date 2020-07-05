@@ -1,0 +1,76 @@
+{
+	"id": "cus_GcrukXDeLVN0rL",
+	"object": "customer",
+	"account_balance": 0,
+	"address": null,
+	"balance": 0,
+	"created": 1580149154,
+	"currency": null,
+	"default_source": "card_1G5cB3HOJlQ3l6gZm9uplSX1",
+	"delinquent": false,
+	"description": "Created by activating the community: 5e2c066844e37f29d0501725",
+	"discount": null,
+	"email": "user@gmail.com",
+	"invoice_prefix": "2ABE2F0F",
+	"invoice_settings": {
+		"custom_fields": null,
+		"default_payment_method": null,
+		"footer": null
+	},
+	"livemode": false,
+	"metadata": {},
+	"name": "user1 USR",
+	"phone": null,
+	"preferred_locales": [],
+	"shipping": null,
+	"sources": {
+		"object": "list",
+		"data": [
+			{
+				"id": "card_1G5cB3HOJlQ3l6gZm9uplSX1",
+				"object": "card",
+				"address_city": null,
+				"address_country": null,
+				"address_line1": null,
+				"address_line1_check": null,
+				"address_line2": null,
+				"address_state": null,
+				"address_zip": "22222",
+				"address_zip_check": "pass",
+				"brand": "Visa",
+				"country": "US",
+				"customer": "cus_GcrukXDeLVN0rL",
+				"cvc_check": "pass",
+				"dynamic_last4": null,
+				"exp_month": 2,
+				"exp_year": 2022,
+				"fingerprint": "cX3FN4aLttmP688F",
+				"funding": "credit",
+				"last4": "4242",
+				"metadata": {},
+				"name": "user1 USR",
+				"tokenization_method": null
+			}
+		],
+		"has_more": false,
+		"total_count": 1,
+		"url": "/v1/customers/cus_GcrukXDeLVN0rL/sources"
+	},
+	"subscriptions": {
+		"object": "list",
+		"data": [],
+		"has_more": false,
+		"total_count": 0,
+		"url": "/v1/customers/cus_GcrukXDeLVN0rL/subscriptions"
+	},
+	"tax_exempt": "none",
+	"tax_ids": {
+		"object": "list",
+		"data": [],
+		"has_more": false,
+		"total_count": 0,
+		"url": "/v1/customers/cus_GcrukXDeLVN0rL/tax_ids"
+	},
+	"tax_info": null,
+	"tax_info_verification": null
+}

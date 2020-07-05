@@ -1,0 +1,31 @@
+.dashboard-header {
+	margin-top: 59px;
+	background-image: -webkit-gradient(linear, left top, right top, from(#8900fe), color-stop(50%, #2e89fe), to(#00e8fe));
+	background-image: linear-gradient(90deg, #8900fe, #2e89fe 50%, #00e8fe);
+}
+
+.header-wrapper {
+	padding: 20px 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: space-around;
+	-ms-flex-pack: distribute;
+	justify-content: space-around;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	background-color: rgba(27, 0, 51, 0.95);
+	background-image: none;
+	background-size: auto;
+}
+
+.header-wrapper a{
+	color: #a1a1a1;
+	font-weight: 600;
+}
+.header-wrapper a:hover{
+	color: #8900fe!important;
+}

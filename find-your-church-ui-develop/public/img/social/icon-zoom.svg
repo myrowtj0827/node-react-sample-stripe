@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-518 -210 244 480" width="24" height="24">
+	<g>
+		<clipPath id="circle">
+			<circle cx="-395.9" cy="30.1" r="236.2"/>
+		</clipPath>
+		<g style="clip-path:url(#circle);" fill="#4A8CFF">
+			<path d="M-645-219h498.2v498.2H-645V-219z"/>
+		</g>
+		<clipPath id="camera">
+			<path d="M-324-0.6l66.8-48.8c5.8-4.8,10.3-3.6,10.3,5.1v148.8c0,9.9-5.5,8.7-10.3,5.1L-324,60.9V-0.6z M-550-43.9
+			V67.1c0.1,25.1,20.6,45.3,45.6,45.2h161.8c4.6,0,8.3-3.7,8.3-8.2V-6.9c-0.1-25.1-20.6-45.3-45.6-45.2h-161.8
+			C-546.3-52.1-550-48.4-550-43.9z"/>
+		</clipPath>
+		<g style="clip-path:url(#camera);" fill="#fff">
+			<path d="M-562.8-64.9h328.7v190h-328.7V-64.9z"/>
+		</g>
+	</g>
+</svg>

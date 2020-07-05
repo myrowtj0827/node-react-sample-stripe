@@ -1,0 +1,49 @@
+
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-TW;q=0.8,zh-CN;q=0.7,zh;q=0.6,ko;q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlMzhhZjE2OTNiYmNlMjNiNjYyNTlhOCIsImZuYW1lIjoiYWFhIiwibG5hbWUiOiJiYmIiLCJlbWFpbCI6ImFiY0BnbWFpbC5jb20iLCJyZWdpc3RlcmVkX2F0IjoiMjAyMC0wMi0wM1QyMzozOTowMi4zNDFaIiwiaWF0IjoxNTgyMDgxNzI1LCJleHAiOjE2MTM2Mzg2NTF9.NZkvCseIfGYmW9bT_VGwjzku2q02EnD7JY1IfXg21L0
+Connection: keep-alive
+Content-Length: 120619
+Content-Type: application/json;charset=UTF-8
+Host: api-dev.findyourchurch.org
+Origin: https://develop.findyourchurch.org
+Referer: https://develop.findyourchurch.org/edit
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+
+{is_new: false, community_id: "5e38af3b93bbce23b66259aa",…}
+is_new: false
+community_id: "5e38af3b93bbce23b66259aa"
+data: {owner_id: "5e38af1693bbce23b66259a8", community_name: "aaaa", category: "Youth Groups",…}
+owner_id: "5e38af1693bbce23b66259a8"
+community_name: "aaaa"
+category: "Youth Groups"
+address: "AAA - Automobile Club of Southern California, South Figueroa Street, Los Angeles, CA"
+coordinate: {lat: 34.0279387, lng: -118.2779687}
+pictures: [,…]
+community_contact: ""
+phone: ""
+email: ""
+website: ""
+facebook: ""
+instagram: ""
+vimeo: ""
+youtube: ""
+podcast: ""
+twitter: ""
+about: ""
+days: "0000000"
+times: "000"
+frequency: "00000"
+ages: "00000000000"
+gender: "000"
+parking: "00000"
+ministries: "0000000"
+other_services: "000000"
+average_attendance: 0
+ambiance: "0000"
+event_type: "00000000"
+support_type: "00000"

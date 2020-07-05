@@ -1,0 +1,62 @@
+.personal-info {
+	display: flex;
+	padding-top: 10px;
+	justify-content: center;
+}
+
+.personal-info .members {
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.personal-info .members:not(:last-child) {
+	margin-right: 10px;
+}
+
+.personal-info .members:hover {
+	opacity: 0.8;
+}
+
+.personal-info .members .personal-pic {
+	border-radius: 100%;
+	cursor: pointer;
+}
+
+.personal-info .members.email {
+	background-image: url("../img/account/account-email.svg") !important;
+}
+
+.personal-info .members.phone {
+	background-image: url("../img/account/account-phone.svg") !important;
+}
+
+.personal-info .members.website {
+	background-image: url("../img/account/account-website.svg") !important;
+}
+
+.personal-info .members.facebook {
+	background-image: url("../img/account/account-facebook.svg") !important;
+}
+
+.personal-info .members.twitter {
+	background-image: url("../img/account/account-twitter.svg") !important;
+}
+
+.personal-info .members.instagram {
+	background-image: url("../img/account/account-instagram.svg") !important;
+}
+
+.profile-info .info-zipcode {
+	padding-top: 10px;
+	color: #333;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
